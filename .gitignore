@@ -1,0 +1,28 @@
+target/
+lib/
+
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+# Sensitive or high-churn files:
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/*_war.xml
+.idea/**/*_war_exploded.xml
+
+## File-based project format:
+*.ipr
+*.iws
+# Don't check-in .iml because it should be auto-created for Gradle projects
+*.iml
+.idea/modules.xml
